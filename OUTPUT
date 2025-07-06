@@ -1,0 +1,13 @@
+Enter the pin
+1234
+you entered successfully
+
+-----ATM MENU-----
+1,Withdraw
+3,Check balance
+3,Exit
+Choose an option
+1
+Enter the amount to withdraw:
+5000
+Your Balance amount is:5000
